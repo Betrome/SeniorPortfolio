@@ -1,0 +1,915 @@
+fileFormatVersion: 2
+guid: 97c822aa3dbb30f4982da53d6411681a
+timeCreated: 1505335284
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Building_0011:Building
+    100002: Building_0011:pCube1
+    100004: Building_0011:Structure
+    100006: Building_0011:Structure 1
+    100008: Building_0011:Structure 2
+    100010: Building_0011:Structure 3
+    100012: Building_0011:Structure1
+    100014: Building_0011:Structure1 1
+    100016: Building_0011:Structure1 2
+    100018: Building_0011:Structure1 3
+    100020: Building_0011:Structure10
+    100022: Building_0011:Structure10 1
+    100024: Building_0011:Structure10 2
+    100026: Building_0011:Structure10 3
+    100028: Building_0011:Structure11
+    100030: Building_0011:Structure11 1
+    100032: Building_0011:Structure11 2
+    100034: Building_0011:Structure11 3
+    100036: Building_0011:Structure12
+    100038: Building_0011:Structure12 1
+    100040: Building_0011:Structure12 2
+    100042: Building_0011:Structure12 3
+    100044: Building_0011:Structure13
+    100046: Building_0011:Structure13 1
+    100048: Building_0011:Structure13 2
+    100050: Building_0011:Structure13 3
+    100052: Building_0011:Structure14
+    100054: Building_0011:Structure14 1
+    100056: Building_0011:Structure14 2
+    100058: Building_0011:Structure14 3
+    100060: Building_0011:Structure15
+    100062: Building_0011:Structure15 1
+    100064: Building_0011:Structure15 2
+    100066: Building_0011:Structure15 3
+    100068: Building_0011:Structure16
+    100070: Building_0011:Structure16 1
+    100072: Building_0011:Structure16 2
+    100074: Building_0011:Structure16 3
+    100076: Building_0011:Structure17
+    100078: Building_0011:Structure17 1
+    100080: Building_0011:Structure17 2
+    100082: Building_0011:Structure17 3
+    100084: Building_0011:Structure18
+    100086: Building_0011:Structure18 1
+    100088: Building_0011:Structure18 2
+    100090: Building_0011:Structure18 3
+    100092: Building_0011:Structure2
+    100094: Building_0011:Structure2 1
+    100096: Building_0011:Structure2 2
+    100098: Building_0011:Structure2 3
+    100100: Building_0011:Structure3
+    100102: Building_0011:Structure3 1
+    100104: Building_0011:Structure3 2
+    100106: Building_0011:Structure3 3
+    100108: Building_0011:Structure4
+    100110: Building_0011:Structure4 1
+    100112: Building_0011:Structure4 2
+    100114: Building_0011:Structure4 3
+    100116: Building_0011:Structure5
+    100118: Building_0011:Structure5 1
+    100120: Building_0011:Structure5 2
+    100122: Building_0011:Structure5 3
+    100124: Building_0011:Structure6
+    100126: Building_0011:Structure6 1
+    100128: Building_0011:Structure6 2
+    100130: Building_0011:Structure6 3
+    100132: Building_0011:Structure7
+    100134: Building_0011:Structure7 1
+    100136: Building_0011:Structure7 2
+    100138: Building_0011:Structure7 3
+    100140: Building_0011:Structure8
+    100142: Building_0011:Structure8 1
+    100144: Building_0011:Structure8 2
+    100146: Building_0011:Structure8 3
+    100148: Building_0011:Structure9
+    100150: Building_0011:Structure9 1
+    100152: Building_0011:Structure9 2
+    100154: Building_0011:Structure9 3
+    100156: Building_0011:Structuring
+    100158: Building_0011:Structuring1
+    100160: Building_0011:Structuring1_Structure
+    100162: Building_0011:Structuring2
+    100164: Building_0011:Structuring2_Structure
+    100166: Building_0011:Structuring3
+    100168: Building_0011:Structuring3_Structure
+    100170: Building_0011:Structuring_Structure
+    100172: Building_0011:Structuring_Structure1
+    100174: Building_0011:Tower
+    100176: Building_0011:transform1
+    100178: Building_0011:transform10
+    100180: Building_0011:transform11
+    100182: Building_0011:transform12
+    100184: Building_0011:transform13
+    100186: Building_0011:transform14
+    100188: Building_0011:transform15
+    100190: Building_0011:transform16
+    100192: Building_0011:transform17
+    100194: Building_0011:transform18
+    100196: Building_0011:transform19
+    100198: Building_0011:transform2
+    100200: Building_0011:transform20
+    100202: Building_0011:transform21
+    100204: Building_0011:transform22
+    100206: Building_0011:transform23
+    100208: Building_0011:transform24
+    100210: Building_0011:transform25
+    100212: Building_0011:transform26
+    100214: Building_0011:transform27
+    100216: Building_0011:transform28
+    100218: Building_0011:transform29
+    100220: Building_0011:transform3
+    100222: Building_0011:transform30
+    100224: Building_0011:transform31
+    100226: Building_0011:transform32
+    100228: Building_0011:transform33
+    100230: Building_0011:transform34
+    100232: Building_0011:transform35
+    100234: Building_0011:transform36
+    100236: Building_0011:transform37
+    100238: Building_0011:transform38
+    100240: Building_0011:transform39
+    100242: Building_0011:transform4
+    100244: Building_0011:transform40
+    100246: Building_0011:transform41
+    100248: Building_0011:transform42
+    100250: Building_0011:transform43
+    100252: Building_0011:transform44
+    100254: Building_0011:transform45
+    100256: Building_0011:transform46
+    100258: Building_0011:transform47
+    100260: Building_0011:transform48
+    100262: Building_0011:transform49
+    100264: Building_0011:transform5
+    100266: Building_0011:transform50
+    100268: Building_0011:transform51
+    100270: Building_0011:transform52
+    100272: Building_0011:transform53
+    100274: Building_0011:transform54
+    100276: Building_0011:transform55
+    100278: Building_0011:transform56
+    100280: Building_0011:transform57
+    100282: Building_0011:transform58
+    100284: Building_0011:transform59
+    100286: Building_0011:transform6
+    100288: Building_0011:transform60
+    100290: Building_0011:transform61
+    100292: Building_0011:transform62
+    100294: Building_0011:transform63
+    100296: Building_0011:transform64
+    100298: Building_0011:transform65
+    100300: Building_0011:transform66
+    100302: Building_0011:transform67
+    100304: Building_0011:transform68
+    100306: Building_0011:transform69
+    100308: Building_0011:transform7
+    100310: Building_0011:transform70
+    100312: Building_0011:transform71
+    100314: Building_0011:transform72
+    100316: Building_0011:transform73
+    100318: Building_0011:transform74
+    100320: Building_0011:transform75
+    100322: Building_0011:transform76
+    100324: Building_0011:transform77
+    100326: Building_0011:transform78
+    100328: Building_0011:transform79
+    100330: Building_0011:transform8
+    100332: Building_0011:transform80
+    100334: Building_0011:transform9
+    100336: Building_0011:Water_storage
+    100338: Building_0011:Window
+    100340: Building_0011:Window1
+    100342: Building_0011:Window2
+    100344: Building_0011:Window20
+    100346: Building_0011:Window21
+    100348: Building_0011:Window22
+    100350: Building_0011:Window23
+    100352: Building_0011:Window24
+    100354: Building_0011:Window25
+    100356: Building_0011:Window26
+    100358: Building_0011:Window27
+    100360: Building_0011:Window28
+    100362: Building_0011:Window29
+    100364: Building_0011:Window3
+    100366: Building_0011:Window30
+    100368: Building_0011:Window30 1
+    100370: Building_0011:Window30 2
+    100372: Building_0011:Window31
+    100374: Building_0011:Window31 1
+    100376: Building_0011:Window31 2
+    100378: Building_0011:Window32
+    100380: Building_0011:Window32 1
+    100382: Building_0011:Window32 2
+    100384: Building_0011:Window33
+    100386: Building_0011:Window33 1
+    100388: Building_0011:Window33 2
+    100390: Building_0011:Window34
+    100392: Building_0011:Window34 1
+    100394: Building_0011:Window34 2
+    100396: Building_0011:Window35
+    100398: Building_0011:Window35 1
+    100400: Building_0011:Window35 2
+    100402: Building_0011:Window36
+    100404: Building_0011:Window36 1
+    100406: Building_0011:Window36 2
+    100408: Building_0011:Window37
+    100410: Building_0011:Window37 1
+    100412: Building_0011:Window37 2
+    100414: Building_0011:Window38
+    100416: Building_0011:Window38 1
+    100418: Building_0011:Window38 2
+    100420: Building_0011:Window39
+    100422: Building_0011:Window39 1
+    100424: Building_0011:Window39 2
+    100426: Building_0011:Window4
+    100428: Building_0011:Window40
+    100430: Building_0011:Window40 1
+    100432: Building_0011:Window40 2
+    100434: Building_0011:Window41
+    100436: Building_0011:Window41 1
+    100438: Building_0011:Window41 2
+    100440: Building_0011:Window42
+    100442: Building_0011:Window42 1
+    100444: Building_0011:Window42 2
+    100446: Building_0011:Window43
+    100448: Building_0011:Window43 1
+    100450: Building_0011:Window43 2
+    100452: Building_0011:Window44
+    100454: Building_0011:Window44 1
+    100456: Building_0011:Window44 2
+    100458: Building_0011:Window45
+    100460: Building_0011:Window45 1
+    100462: Building_0011:Window45 2
+    100464: Building_0011:Window46
+    100466: Building_0011:Window46 1
+    100468: Building_0011:Window46 2
+    100470: Building_0011:Window47
+    100472: Building_0011:Window47 1
+    100474: Building_0011:Window47 2
+    100476: Building_0011:Window48
+    100478: Building_0011:Window48 1
+    100480: Building_0011:Window48 2
+    100482: Building_0011:Window49
+    100484: Building_0011:Window49 1
+    100486: Building_0011:Window49 2
+    100488: Building_0011:Window5
+    100490: Building_0011:Window6
+    100492: Building_0011:Window7
+    100494: Building_0011:Window8
+    100496: Building_0011:Window9
+    100498: Building_0011:Windows_1
+    100500: Building_0011:Windows_2
+    100502: Building_0011:Windows_3
+    100504: Building_0011:Windows_4
+    100506: BuildingLeftovers
+    100508: Coin_0002:pCylinder1
+    100510: Cylinder1
+    100512: Cylinder2
+    100514: Cylinder3
+    100516: Cylinder_0001:Cylinder1
+    100518: Cylinder_0001:Cylinder2
+    100520: Cylinder_0001:Cylinder3
+    100522: MASH12_ReproMesh
+    100524: MASH13_ReproMesh
+    100526: MASH13_ReproMesh_MeshPart0
+    100528: MASH13_ReproMesh_MeshPart1
+    100530: MASH13_ReproMesh_MeshPart2
+    100532: MASH13_ReproMesh_MeshPart3
+    100534: MASH13_ReproMesh_MeshPart4
+    100536: MASH8_ReproMesh
+    100538: MASH8_ReproMesh1
+    100540: MASH_Building_Transform_loc
+    100542: MASH_Structuring_Transform_loc
+    100544: //RootNode
+    400000: Building_0011:Building
+    400002: Building_0011:pCube1
+    400004: Building_0011:Structure
+    400006: Building_0011:Structure 1
+    400008: Building_0011:Structure 2
+    400010: Building_0011:Structure 3
+    400012: Building_0011:Structure1
+    400014: Building_0011:Structure1 1
+    400016: Building_0011:Structure1 2
+    400018: Building_0011:Structure1 3
+    400020: Building_0011:Structure10
+    400022: Building_0011:Structure10 1
+    400024: Building_0011:Structure10 2
+    400026: Building_0011:Structure10 3
+    400028: Building_0011:Structure11
+    400030: Building_0011:Structure11 1
+    400032: Building_0011:Structure11 2
+    400034: Building_0011:Structure11 3
+    400036: Building_0011:Structure12
+    400038: Building_0011:Structure12 1
+    400040: Building_0011:Structure12 2
+    400042: Building_0011:Structure12 3
+    400044: Building_0011:Structure13
+    400046: Building_0011:Structure13 1
+    400048: Building_0011:Structure13 2
+    400050: Building_0011:Structure13 3
+    400052: Building_0011:Structure14
+    400054: Building_0011:Structure14 1
+    400056: Building_0011:Structure14 2
+    400058: Building_0011:Structure14 3
+    400060: Building_0011:Structure15
+    400062: Building_0011:Structure15 1
+    400064: Building_0011:Structure15 2
+    400066: Building_0011:Structure15 3
+    400068: Building_0011:Structure16
+    400070: Building_0011:Structure16 1
+    400072: Building_0011:Structure16 2
+    400074: Building_0011:Structure16 3
+    400076: Building_0011:Structure17
+    400078: Building_0011:Structure17 1
+    400080: Building_0011:Structure17 2
+    400082: Building_0011:Structure17 3
+    400084: Building_0011:Structure18
+    400086: Building_0011:Structure18 1
+    400088: Building_0011:Structure18 2
+    400090: Building_0011:Structure18 3
+    400092: Building_0011:Structure2
+    400094: Building_0011:Structure2 1
+    400096: Building_0011:Structure2 2
+    400098: Building_0011:Structure2 3
+    400100: Building_0011:Structure3
+    400102: Building_0011:Structure3 1
+    400104: Building_0011:Structure3 2
+    400106: Building_0011:Structure3 3
+    400108: Building_0011:Structure4
+    400110: Building_0011:Structure4 1
+    400112: Building_0011:Structure4 2
+    400114: Building_0011:Structure4 3
+    400116: Building_0011:Structure5
+    400118: Building_0011:Structure5 1
+    400120: Building_0011:Structure5 2
+    400122: Building_0011:Structure5 3
+    400124: Building_0011:Structure6
+    400126: Building_0011:Structure6 1
+    400128: Building_0011:Structure6 2
+    400130: Building_0011:Structure6 3
+    400132: Building_0011:Structure7
+    400134: Building_0011:Structure7 1
+    400136: Building_0011:Structure7 2
+    400138: Building_0011:Structure7 3
+    400140: Building_0011:Structure8
+    400142: Building_0011:Structure8 1
+    400144: Building_0011:Structure8 2
+    400146: Building_0011:Structure8 3
+    400148: Building_0011:Structure9
+    400150: Building_0011:Structure9 1
+    400152: Building_0011:Structure9 2
+    400154: Building_0011:Structure9 3
+    400156: Building_0011:Structuring
+    400158: Building_0011:Structuring1
+    400160: Building_0011:Structuring1_Structure
+    400162: Building_0011:Structuring2
+    400164: Building_0011:Structuring2_Structure
+    400166: Building_0011:Structuring3
+    400168: Building_0011:Structuring3_Structure
+    400170: Building_0011:Structuring_Structure
+    400172: Building_0011:Structuring_Structure1
+    400174: Building_0011:Tower
+    400176: Building_0011:transform1
+    400178: Building_0011:transform10
+    400180: Building_0011:transform11
+    400182: Building_0011:transform12
+    400184: Building_0011:transform13
+    400186: Building_0011:transform14
+    400188: Building_0011:transform15
+    400190: Building_0011:transform16
+    400192: Building_0011:transform17
+    400194: Building_0011:transform18
+    400196: Building_0011:transform19
+    400198: Building_0011:transform2
+    400200: Building_0011:transform20
+    400202: Building_0011:transform21
+    400204: Building_0011:transform22
+    400206: Building_0011:transform23
+    400208: Building_0011:transform24
+    400210: Building_0011:transform25
+    400212: Building_0011:transform26
+    400214: Building_0011:transform27
+    400216: Building_0011:transform28
+    400218: Building_0011:transform29
+    400220: Building_0011:transform3
+    400222: Building_0011:transform30
+    400224: Building_0011:transform31
+    400226: Building_0011:transform32
+    400228: Building_0011:transform33
+    400230: Building_0011:transform34
+    400232: Building_0011:transform35
+    400234: Building_0011:transform36
+    400236: Building_0011:transform37
+    400238: Building_0011:transform38
+    400240: Building_0011:transform39
+    400242: Building_0011:transform4
+    400244: Building_0011:transform40
+    400246: Building_0011:transform41
+    400248: Building_0011:transform42
+    400250: Building_0011:transform43
+    400252: Building_0011:transform44
+    400254: Building_0011:transform45
+    400256: Building_0011:transform46
+    400258: Building_0011:transform47
+    400260: Building_0011:transform48
+    400262: Building_0011:transform49
+    400264: Building_0011:transform5
+    400266: Building_0011:transform50
+    400268: Building_0011:transform51
+    400270: Building_0011:transform52
+    400272: Building_0011:transform53
+    400274: Building_0011:transform54
+    400276: Building_0011:transform55
+    400278: Building_0011:transform56
+    400280: Building_0011:transform57
+    400282: Building_0011:transform58
+    400284: Building_0011:transform59
+    400286: Building_0011:transform6
+    400288: Building_0011:transform60
+    400290: Building_0011:transform61
+    400292: Building_0011:transform62
+    400294: Building_0011:transform63
+    400296: Building_0011:transform64
+    400298: Building_0011:transform65
+    400300: Building_0011:transform66
+    400302: Building_0011:transform67
+    400304: Building_0011:transform68
+    400306: Building_0011:transform69
+    400308: Building_0011:transform7
+    400310: Building_0011:transform70
+    400312: Building_0011:transform71
+    400314: Building_0011:transform72
+    400316: Building_0011:transform73
+    400318: Building_0011:transform74
+    400320: Building_0011:transform75
+    400322: Building_0011:transform76
+    400324: Building_0011:transform77
+    400326: Building_0011:transform78
+    400328: Building_0011:transform79
+    400330: Building_0011:transform8
+    400332: Building_0011:transform80
+    400334: Building_0011:transform9
+    400336: Building_0011:Water_storage
+    400338: Building_0011:Window
+    400340: Building_0011:Window1
+    400342: Building_0011:Window2
+    400344: Building_0011:Window20
+    400346: Building_0011:Window21
+    400348: Building_0011:Window22
+    400350: Building_0011:Window23
+    400352: Building_0011:Window24
+    400354: Building_0011:Window25
+    400356: Building_0011:Window26
+    400358: Building_0011:Window27
+    400360: Building_0011:Window28
+    400362: Building_0011:Window29
+    400364: Building_0011:Window3
+    400366: Building_0011:Window30
+    400368: Building_0011:Window30 1
+    400370: Building_0011:Window30 2
+    400372: Building_0011:Window31
+    400374: Building_0011:Window31 1
+    400376: Building_0011:Window31 2
+    400378: Building_0011:Window32
+    400380: Building_0011:Window32 1
+    400382: Building_0011:Window32 2
+    400384: Building_0011:Window33
+    400386: Building_0011:Window33 1
+    400388: Building_0011:Window33 2
+    400390: Building_0011:Window34
+    400392: Building_0011:Window34 1
+    400394: Building_0011:Window34 2
+    400396: Building_0011:Window35
+    400398: Building_0011:Window35 1
+    400400: Building_0011:Window35 2
+    400402: Building_0011:Window36
+    400404: Building_0011:Window36 1
+    400406: Building_0011:Window36 2
+    400408: Building_0011:Window37
+    400410: Building_0011:Window37 1
+    400412: Building_0011:Window37 2
+    400414: Building_0011:Window38
+    400416: Building_0011:Window38 1
+    400418: Building_0011:Window38 2
+    400420: Building_0011:Window39
+    400422: Building_0011:Window39 1
+    400424: Building_0011:Window39 2
+    400426: Building_0011:Window4
+    400428: Building_0011:Window40
+    400430: Building_0011:Window40 1
+    400432: Building_0011:Window40 2
+    400434: Building_0011:Window41
+    400436: Building_0011:Window41 1
+    400438: Building_0011:Window41 2
+    400440: Building_0011:Window42
+    400442: Building_0011:Window42 1
+    400444: Building_0011:Window42 2
+    400446: Building_0011:Window43
+    400448: Building_0011:Window43 1
+    400450: Building_0011:Window43 2
+    400452: Building_0011:Window44
+    400454: Building_0011:Window44 1
+    400456: Building_0011:Window44 2
+    400458: Building_0011:Window45
+    400460: Building_0011:Window45 1
+    400462: Building_0011:Window45 2
+    400464: Building_0011:Window46
+    400466: Building_0011:Window46 1
+    400468: Building_0011:Window46 2
+    400470: Building_0011:Window47
+    400472: Building_0011:Window47 1
+    400474: Building_0011:Window47 2
+    400476: Building_0011:Window48
+    400478: Building_0011:Window48 1
+    400480: Building_0011:Window48 2
+    400482: Building_0011:Window49
+    400484: Building_0011:Window49 1
+    400486: Building_0011:Window49 2
+    400488: Building_0011:Window5
+    400490: Building_0011:Window6
+    400492: Building_0011:Window7
+    400494: Building_0011:Window8
+    400496: Building_0011:Window9
+    400498: Building_0011:Windows_1
+    400500: Building_0011:Windows_2
+    400502: Building_0011:Windows_3
+    400504: Building_0011:Windows_4
+    400506: BuildingLeftovers
+    400508: Coin_0002:pCylinder1
+    400510: Cylinder1
+    400512: Cylinder2
+    400514: Cylinder3
+    400516: Cylinder_0001:Cylinder1
+    400518: Cylinder_0001:Cylinder2
+    400520: Cylinder_0001:Cylinder3
+    400522: MASH12_ReproMesh
+    400524: MASH13_ReproMesh
+    400526: MASH13_ReproMesh_MeshPart0
+    400528: MASH13_ReproMesh_MeshPart1
+    400530: MASH13_ReproMesh_MeshPart2
+    400532: MASH13_ReproMesh_MeshPart3
+    400534: MASH13_ReproMesh_MeshPart4
+    400536: MASH8_ReproMesh
+    400538: MASH8_ReproMesh1
+    400540: MASH_Building_Transform_loc
+    400542: MASH_Structuring_Transform_loc
+    400544: //RootNode
+    2300000: Building_0011:Building
+    2300002: Building_0011:pCube1
+    2300004: Building_0011:Structuring_Structure1
+    2300006: Building_0011:Water_storage
+    2300008: Building_0011:Window
+    2300010: Building_0011:Window1
+    2300012: Building_0011:Window2
+    2300014: Building_0011:Window20
+    2300016: Building_0011:Window21
+    2300018: Building_0011:Window22
+    2300020: Building_0011:Window23
+    2300022: Building_0011:Window24
+    2300024: Building_0011:Window25
+    2300026: Building_0011:Window26
+    2300028: Building_0011:Window27
+    2300030: Building_0011:Window28
+    2300032: Building_0011:Window29
+    2300034: Building_0011:Window3
+    2300036: Building_0011:Window30
+    2300038: Building_0011:Window30 1
+    2300040: Building_0011:Window30 2
+    2300042: Building_0011:Window31
+    2300044: Building_0011:Window31 1
+    2300046: Building_0011:Window31 2
+    2300048: Building_0011:Window32
+    2300050: Building_0011:Window32 1
+    2300052: Building_0011:Window32 2
+    2300054: Building_0011:Window33
+    2300056: Building_0011:Window33 1
+    2300058: Building_0011:Window33 2
+    2300060: Building_0011:Window34
+    2300062: Building_0011:Window34 1
+    2300064: Building_0011:Window34 2
+    2300066: Building_0011:Window35
+    2300068: Building_0011:Window35 1
+    2300070: Building_0011:Window35 2
+    2300072: Building_0011:Window36
+    2300074: Building_0011:Window36 1
+    2300076: Building_0011:Window36 2
+    2300078: Building_0011:Window37
+    2300080: Building_0011:Window37 1
+    2300082: Building_0011:Window37 2
+    2300084: Building_0011:Window38
+    2300086: Building_0011:Window38 1
+    2300088: Building_0011:Window38 2
+    2300090: Building_0011:Window39
+    2300092: Building_0011:Window39 1
+    2300094: Building_0011:Window39 2
+    2300096: Building_0011:Window4
+    2300098: Building_0011:Window40
+    2300100: Building_0011:Window40 1
+    2300102: Building_0011:Window40 2
+    2300104: Building_0011:Window41
+    2300106: Building_0011:Window41 1
+    2300108: Building_0011:Window41 2
+    2300110: Building_0011:Window42
+    2300112: Building_0011:Window42 1
+    2300114: Building_0011:Window42 2
+    2300116: Building_0011:Window43
+    2300118: Building_0011:Window43 1
+    2300120: Building_0011:Window43 2
+    2300122: Building_0011:Window44
+    2300124: Building_0011:Window44 1
+    2300126: Building_0011:Window44 2
+    2300128: Building_0011:Window45
+    2300130: Building_0011:Window45 1
+    2300132: Building_0011:Window45 2
+    2300134: Building_0011:Window46
+    2300136: Building_0011:Window46 1
+    2300138: Building_0011:Window46 2
+    2300140: Building_0011:Window47
+    2300142: Building_0011:Window47 1
+    2300144: Building_0011:Window47 2
+    2300146: Building_0011:Window48
+    2300148: Building_0011:Window48 1
+    2300150: Building_0011:Window48 2
+    2300152: Building_0011:Window49
+    2300154: Building_0011:Window49 1
+    2300156: Building_0011:Window49 2
+    2300158: Building_0011:Window5
+    2300160: Building_0011:Window6
+    2300162: Building_0011:Window7
+    2300164: Building_0011:Window8
+    2300166: Building_0011:Window9
+    2300168: Coin_0002:pCylinder1
+    2300170: Cylinder1
+    2300172: Cylinder2
+    2300174: Cylinder3
+    2300176: MASH12_ReproMesh
+    2300178: MASH13_ReproMesh_MeshPart0
+    2300180: MASH13_ReproMesh_MeshPart1
+    2300182: MASH13_ReproMesh_MeshPart2
+    2300184: MASH13_ReproMesh_MeshPart3
+    2300186: MASH13_ReproMesh_MeshPart4
+    2300188: MASH8_ReproMesh1
+    3300000: Building_0011:Building
+    3300002: Building_0011:pCube1
+    3300004: Building_0011:Structuring_Structure1
+    3300006: Building_0011:Water_storage
+    3300008: Building_0011:Window
+    3300010: Building_0011:Window1
+    3300012: Building_0011:Window2
+    3300014: Building_0011:Window20
+    3300016: Building_0011:Window21
+    3300018: Building_0011:Window22
+    3300020: Building_0011:Window23
+    3300022: Building_0011:Window24
+    3300024: Building_0011:Window25
+    3300026: Building_0011:Window26
+    3300028: Building_0011:Window27
+    3300030: Building_0011:Window28
+    3300032: Building_0011:Window29
+    3300034: Building_0011:Window3
+    3300036: Building_0011:Window30
+    3300038: Building_0011:Window30 1
+    3300040: Building_0011:Window30 2
+    3300042: Building_0011:Window31
+    3300044: Building_0011:Window31 1
+    3300046: Building_0011:Window31 2
+    3300048: Building_0011:Window32
+    3300050: Building_0011:Window32 1
+    3300052: Building_0011:Window32 2
+    3300054: Building_0011:Window33
+    3300056: Building_0011:Window33 1
+    3300058: Building_0011:Window33 2
+    3300060: Building_0011:Window34
+    3300062: Building_0011:Window34 1
+    3300064: Building_0011:Window34 2
+    3300066: Building_0011:Window35
+    3300068: Building_0011:Window35 1
+    3300070: Building_0011:Window35 2
+    3300072: Building_0011:Window36
+    3300074: Building_0011:Window36 1
+    3300076: Building_0011:Window36 2
+    3300078: Building_0011:Window37
+    3300080: Building_0011:Window37 1
+    3300082: Building_0011:Window37 2
+    3300084: Building_0011:Window38
+    3300086: Building_0011:Window38 1
+    3300088: Building_0011:Window38 2
+    3300090: Building_0011:Window39
+    3300092: Building_0011:Window39 1
+    3300094: Building_0011:Window39 2
+    3300096: Building_0011:Window4
+    3300098: Building_0011:Window40
+    3300100: Building_0011:Window40 1
+    3300102: Building_0011:Window40 2
+    3300104: Building_0011:Window41
+    3300106: Building_0011:Window41 1
+    3300108: Building_0011:Window41 2
+    3300110: Building_0011:Window42
+    3300112: Building_0011:Window42 1
+    3300114: Building_0011:Window42 2
+    3300116: Building_0011:Window43
+    3300118: Building_0011:Window43 1
+    3300120: Building_0011:Window43 2
+    3300122: Building_0011:Window44
+    3300124: Building_0011:Window44 1
+    3300126: Building_0011:Window44 2
+    3300128: Building_0011:Window45
+    3300130: Building_0011:Window45 1
+    3300132: Building_0011:Window45 2
+    3300134: Building_0011:Window46
+    3300136: Building_0011:Window46 1
+    3300138: Building_0011:Window46 2
+    3300140: Building_0011:Window47
+    3300142: Building_0011:Window47 1
+    3300144: Building_0011:Window47 2
+    3300146: Building_0011:Window48
+    3300148: Building_0011:Window48 1
+    3300150: Building_0011:Window48 2
+    3300152: Building_0011:Window49
+    3300154: Building_0011:Window49 1
+    3300156: Building_0011:Window49 2
+    3300158: Building_0011:Window5
+    3300160: Building_0011:Window6
+    3300162: Building_0011:Window7
+    3300164: Building_0011:Window8
+    3300166: Building_0011:Window9
+    3300168: Coin_0002:pCylinder1
+    3300170: Cylinder1
+    3300172: Cylinder2
+    3300174: Cylinder3
+    3300176: MASH12_ReproMesh
+    3300178: MASH13_ReproMesh_MeshPart0
+    3300180: MASH13_ReproMesh_MeshPart1
+    3300182: MASH13_ReproMesh_MeshPart2
+    3300184: MASH13_ReproMesh_MeshPart3
+    3300186: MASH13_ReproMesh_MeshPart4
+    3300188: MASH8_ReproMesh1
+    4300000: MASH8_ReproMesh1
+    4300002: Building_0011:pCube1
+    4300004: Building_0011:Water_storage
+    4300006: MASH12_ReproMesh
+    4300008: Coin_0002:pCylinder1
+    4300010: Cylinder1
+    4300012: Cylinder2
+    4300014: Cylinder3
+    4300016: Building_0011:Window
+    4300018: Building_0011:Window1
+    4300020: Building_0011:Window2
+    4300022: Building_0011:Window3
+    4300024: Building_0011:Window4
+    4300026: Building_0011:Window5
+    4300028: Building_0011:Window6
+    4300030: Building_0011:Window7
+    4300032: Building_0011:Window8
+    4300034: Building_0011:Window9
+    4300036: Building_0011:Window20
+    4300038: Building_0011:Window21
+    4300040: Building_0011:Window22
+    4300042: Building_0011:Window23
+    4300044: Building_0011:Window24
+    4300046: Building_0011:Window25
+    4300048: Building_0011:Window26
+    4300050: Building_0011:Window27
+    4300052: Building_0011:Window28
+    4300054: Building_0011:Window29
+    4300056: Building_0011:Window49
+    4300058: Building_0011:Window48
+    4300060: Building_0011:Window47
+    4300062: Building_0011:Window46
+    4300064: Building_0011:Window45
+    4300066: Building_0011:Window44
+    4300068: Building_0011:Window43
+    4300070: Building_0011:Window42
+    4300072: Building_0011:Window41
+    4300074: Building_0011:Window40
+    4300076: Building_0011:Window39
+    4300078: Building_0011:Window38
+    4300080: Building_0011:Window37
+    4300082: Building_0011:Window36
+    4300084: Building_0011:Window35
+    4300086: Building_0011:Window34
+    4300088: Building_0011:Window33
+    4300090: Building_0011:Window32
+    4300092: Building_0011:Window31
+    4300094: Building_0011:Window30
+    4300096: Building_0011:Window49
+    4300098: Building_0011:Window48
+    4300100: Building_0011:Window47
+    4300102: Building_0011:Window46
+    4300104: Building_0011:Window45
+    4300106: Building_0011:Window44
+    4300108: Building_0011:Window43
+    4300110: Building_0011:Window42
+    4300112: Building_0011:Window41
+    4300114: Building_0011:Window40
+    4300116: Building_0011:Window39
+    4300118: Building_0011:Window38
+    4300120: Building_0011:Window37
+    4300122: Building_0011:Window36
+    4300124: Building_0011:Window35
+    4300126: Building_0011:Window34
+    4300128: Building_0011:Window33
+    4300130: Building_0011:Window32
+    4300132: Building_0011:Window31
+    4300134: Building_0011:Window30
+    4300136: Building_0011:Window49
+    4300138: Building_0011:Window48
+    4300140: Building_0011:Window47
+    4300142: Building_0011:Window46
+    4300144: Building_0011:Window45
+    4300146: Building_0011:Window44
+    4300148: Building_0011:Window43
+    4300150: Building_0011:Window42
+    4300152: Building_0011:Window41
+    4300154: Building_0011:Window40
+    4300156: Building_0011:Window39
+    4300158: Building_0011:Window38
+    4300160: Building_0011:Window37
+    4300162: Building_0011:Window36
+    4300164: Building_0011:Window35
+    4300166: Building_0011:Window34
+    4300168: Building_0011:Window33
+    4300170: Building_0011:Window32
+    4300172: Building_0011:Window31
+    4300174: Building_0011:Window30
+    4300176: Building_0011:Building
+    4300178: Building_0011:Structuring_Structure1
+    4300180: MASH13_ReproMesh_MeshPart0
+    4300182: MASH13_ReproMesh_MeshPart1
+    4300184: MASH13_ReproMesh_MeshPart2
+    4300186: MASH13_ReproMesh_MeshPart3
+    4300188: MASH13_ReproMesh_MeshPart4
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
